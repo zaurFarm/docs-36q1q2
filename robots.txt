@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bopyu5.akseslinkrtp.ink/sitemap.xml
